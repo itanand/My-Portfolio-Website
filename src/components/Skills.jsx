@@ -35,7 +35,7 @@ const Skills = () => {
   }
 
   return (
-    <section className="min-h-fit bg-bg_light_primary" id="skills">
+    <section className="min-h-fit bg-bg_light_secondary" id="skills">
       {/* modal */}
       <Modal
         isOpen={modalIsOpen}
@@ -90,7 +90,7 @@ const Skills = () => {
                 <img
                   src={skill.logo}
                   alt="..."
-                  className="w-10 group-hover:scale-125 duration-200"
+                  className="w-12 group-hover:scale-125 duration-200"
                 />
               </div>
               <div>

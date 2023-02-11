@@ -93,28 +93,28 @@ export const content = {
       },
       {
         name: "Node JS",
-        para: "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux and Other OS.",
+        para: "I am Beginner in the NodeJS Development.",
         logo: nodejs,
       },
       {
         name: "MongoDB",
-        para: "MongoDB is a source-available cross-platform document-oriented database program.",
+        para: "I am using MongoDB Database from since 1.5 years. It's Amazing.",
         logo: mongodb,
       },
       {
         name: "AWS Cloud",
-        para: "Amazon web service is an online platform that provides scalable and cost-effective cloud computing solutions. ",
+        para: "I have good Command in AWS Services, Sevices like IAM, Ec-2, AWS Lambda, AWS VPS etc.",
         logo: aws,
       },
       {
         name: "Wordpress",
-        para: "WordPress is a free and open-source content management system.",
+        para: "I have 3+ years of experiance in Wordpress Website Development. Delivered more than 10 Websites.",
         logo: wordpress,
       },
 
       {
         name: "Figma",
-        para: "Figma is a collaborative web application for interface design.",
+        para: "I am good at design, and for the better UI/UX I prefer figma.",
         logo: figma,
       },
       {

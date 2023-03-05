@@ -11,9 +11,7 @@ const Experience = () => {
         <h4 className="subtitle" data-aos="fade-down">
           {services.subtitle}
         </h4>
-        <h6 className="subtitle" data-aos="fade-down">
-          {services.date}
-        </h6>
+
         <br />
         <div className="flex gap-5 justify-between flex-wrap group">
           {services.service_content.map((content, i) => (
@@ -26,6 +24,7 @@ const Experience = () => {
             >
               <img src={content.logo} alt="..." className="mx-auto" />
               <h6 className="my-3">{content.title}</h6>
+              <p className="leading-7">{content.date}</p>
               <p className="leading-7">{content.para}</p>
 
             </div>

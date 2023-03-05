@@ -41,7 +41,7 @@ const Projects = () => {
             {Projects.project_content.map((content, i) => (
               <SwiperSlide
                 key={i}
-                className="bg-white rounded-3xl p-5 border-b-8 border-[#FAF9FD] h-fit"
+                className="bg-white rounded-3xl p-6 border-b-8 border-[#FAF9FD] h-fit"
               >
                 <img src={content.image} alt="..." />
                 <div className="flex flex-col gap-1 mt-2">

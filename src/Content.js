@@ -16,7 +16,7 @@ import seo from "./assets/images/Services/seo.png";
 import project1 from "./assets/images/Projects/img1.png";
 import project2 from "./assets/images/Projects/img2.png";
 import project3 from "./assets/images/Projects/img3.png";
-import person_project from "./assets/images/Projects/project.jpg";
+import person_project from "./assets/images/Projects/project.png";
 
 import t from "./assets/images/Testimonials/t.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";

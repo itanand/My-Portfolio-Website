@@ -10,6 +10,7 @@ import { useEffect } from "react";
 
 import Aos from "aos";
 import "aos/dist/aos.css";
+import Experience from "./components/Experience";
 
 const App = () => {
   useEffect(() => {
@@ -24,6 +25,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <Skills />
+      <Experience />
       <Service />
       <Projects />
       <Testimonials />

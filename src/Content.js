@@ -13,9 +13,9 @@ import app from "./assets/images/Services/app.png";
 import web from "./assets/images/Services/web.png";
 import seo from "./assets/images/Services/seo.png";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
+import project1 from "./assets/images/Projects/img1.png";
+import project2 from "./assets/images/Projects/img2.png";
+import project3 from "./assets/images/Projects/img3.png";
 import person_project from "./assets/images/projects/person.png";
 
 import t from "./assets/images/Testimonials/t.png";

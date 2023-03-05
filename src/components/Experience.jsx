@@ -1,9 +1,9 @@
 import { content } from "../Content";
 
 const Experience = () => {
-  const { services } = content;
+  const { experience } = content;
   return (
-    <section id="services">
+    <section id="experience">
       <div className="md:container px-5 py-14">
         <h2 className="title" data-aos="fade-down">
           {services.title}
@@ -11,6 +11,9 @@ const Experience = () => {
         <h4 className="subtitle" data-aos="fade-down">
           {services.subtitle}
         </h4>
+        <h6 className="subtitle" data-aos="fade-down">
+          {services.date}
+        </h6>
         <br />
         <div className="flex gap-5 justify-between flex-wrap group">
           {services.service_content.map((content, i) => (

@@ -68,7 +68,7 @@ const Skills = () => {
       </Modal>
 
       {/* content */}
-      <div className="md:container px-5  py-14">
+      <div className="md:container px-3  py-14">
         <h2 className="title" data-aos="fade-down">
           {skills.title}
         </h2>

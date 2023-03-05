@@ -24,7 +24,7 @@ const Services = () => {
               <img src={content.logo} alt="..." className="mx-auto" />
               <h6 className="my-3">{content.title}</h6>
               <p className="leading-7">{content.para}</p>
-              <a href="https://itanand.github.io" className="btn mt-2">Hire me</a>
+
             </div>
           ))}
         </div>

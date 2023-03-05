@@ -1,14 +1,12 @@
 
 import Hero_person from "./assets/images/Hero/person.png";
 
-import figma from "./assets/images/Skills/figma.png";
 import mongodb from "./assets/images/Skills/mongodb.png";
 import aws from "./assets/images/Skills/aws.png";
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
 import python from "./assets/images/Skills/python.png";
 import wordpress from "./assets/images/Skills/wordpress.png";
-import laravel from "./assets/images/Skills/laravel.png";
 import js from "./assets/images/Skills/js.png";
 
 import app from "./assets/images/Services/app.png";
@@ -61,15 +59,15 @@ export const content = {
     },
   ],
   hero: {
-    title: "Website Developer",
+    title: "Web Developer",
     firstName: "Anand",
     LastName: ".",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "3+",
-        text: "Years of Experinse in Web & App Development",
+        count: "1.5",
+        text: "Years of Experinse in Web Development and DevOps",
       },
       {
         count: "10+",
@@ -92,61 +90,53 @@ export const content = {
         logo: reactjs,
       },
       {
-        name: "Node JS",
-        para: "I am Beginner in the NodeJS Development.",
-        logo: nodejs,
-      },
-      {
-        name: "MongoDB",
-        para: "I am using MongoDB Database from since 1.5 years. It's Amazing.",
-        logo: mongodb,
-      },
-      {
         name: "AWS Cloud",
         para: "I have good Command in AWS Services, Sevices like IAM, Ec-2, AWS Lambda, AWS VPS etc.",
         logo: aws,
       },
       {
-        name: "Wordpress",
-        para: "I have 3+ years of experiance in Wordpress Website Development. Delivered more than 10 Websites.",
-        logo: wordpress,
+        name: "NodeJS",
+        para: "I am Beginner in the NodeJS Development.",
+        logo: nodejs,
       },
 
       {
-        name: "Figma",
-        para: "I am good at design, and for the better UI/UX I prefer figma.",
-        logo: figma,
+        name: "MongoDB",
+        para: "I am using MongoDB Database from since 1.5 years. It's Amazing.",
+        logo: mongodb,
+      },
+
+      {
+        name: "Wordpress Development",
+        para: "I have 3+ years of experiance in Wordpress Website Development. Delivered more than 10 Websites.",
+        logo: wordpress,
       },
       {
         name: "Python",
         para: "Python is a high-level, general-purpose programming language.",
         logo: python,
       },
-      {
-        name: "Laravel",
-        para: "Laravel is a free and open-source PHP web framework.",
-        logo: laravel,
-      },
+
     ],
     icon: MdArrowForward,
   },
   services: {
-    title: "Services",
-    subtitle: "WE OFFER",
+    title: "Technologies",
+    subtitle: "I Knows",
     service_content: [
       {
-        title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Web Development(MERN)",
+        para: "I am a MERN Stack Web Developer, Intereseted in creating some awesome projects. I have done some projects in Web Development. ",
         logo: web,
       },
       {
-        title: "SEO & Content Marketing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "AWS Cloud",
+        para: "I am familliar with AWS Services, Enjoyed to work with the AWS Sevices. I love to work with the AWS Cloud Services. ",
         logo: seo,
       },
       {
-        title: "App Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "DevOps Tools",
+        para: "I am currently learning and practicing DevOps Tools like Docker, Kubernets, Jenkins, Ansible and Terraform.",
         logo: app,
       },
     ],
@@ -157,7 +147,7 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Interior Design Service",
+        title: "Deployed a Microservices Application",
         image: project1,
         link:  "https://tacticenterprises.com",
       },
@@ -172,12 +162,12 @@ export const content = {
         link:  "https://ghoomyatri.com",
       },
       {
-        title: "Acme Education",
+        title: "3D Portfolio",
         image: project3,
         link:  "https://acmeeducation.org",
       },
       {
-        title: "IT - Services",
+        title: "IT Service Website",
         image: project3,
         link:  "https://heatrecsolutions.com",
       },
@@ -203,7 +193,7 @@ export const content = {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
         img: avatar2,
-        name: "The SkyLark ( Ansh Raj )",
+        name: "Eccom Store( Anand Mohan )",
       },
       {
         review:
@@ -215,7 +205,7 @@ export const content = {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
         img: avatar4,
-        name: "BlueBird (Tom Jamy)",
+        name: "It- Website (james Naura)",
       },
     ],
   },
@@ -228,7 +218,7 @@ export const content = {
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
@@ -259,6 +249,6 @@ export const content = {
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "All © Copy Right Reserved 2023",
   },
 };

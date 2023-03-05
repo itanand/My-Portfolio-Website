@@ -132,7 +132,7 @@ export const content = {
       {
         title: "AWS Cloud",
         para: "I am familliar with AWS Services, Enjoyed to work with the AWS Sevices. I love to work with the AWS Cloud Services. ",
-        logo: seo,
+        logo: aws,
       },
       {
         title: "DevOps Tools",

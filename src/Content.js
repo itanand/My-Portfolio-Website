@@ -59,14 +59,14 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
+    title: "Sofware Developer",
     firstName: "Anand",
     LastName: ".",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "1.5",
+        count: "2.0",
         text: "Years of Experinse in Web Development and DevOps",
       },
       {

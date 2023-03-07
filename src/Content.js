@@ -155,7 +155,7 @@ export const content = {
     service_content: [
       {
         title: "Web Development(MERN)",
-        para: "I am a MERN Stack Web Developer, Intereseted in creating some awesome projects. I have done some projects in Web Development. ",
+        para: "I am a UI/UX Developer, Intereseted in creating some awesome projects. I have done some awesome projects in Web & App Development. ",
         logo: web,
       },
       {

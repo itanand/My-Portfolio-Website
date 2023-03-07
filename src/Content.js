@@ -23,6 +23,11 @@ import avatar2 from "./assets/images/Testimonials/avatar2.png";
 import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
+import accenture from "./assets/images/Experience/webshilla.png";
+import heatrec from "./assets/images/Experience/heatrec.png";
+import usib from "./assets/images/Experience/webshilla.png";
+
+
 import Hireme_person from "./assets/images/Hireme/person.png";
 import Hireme_person2 from "./assets/images/Hireme/person2.png";
 
@@ -127,20 +132,20 @@ export const content = {
       {
         title: "Software Developer",
         date: "From - 06/2022 -> To - Present",
-        para: "I am a MERN Stack Web Developer, Intereseted in creating some awesome projects. I have done some projects in Web Development. ",
-        logo: web,
+        para: "I have been working here since June 2022, as a Software Engineer. I have handelling the team of Developers and also I'm responsible for DevOps Practices. ",
+        logo: heatrec,
       },
       {
         title: "Analytics Associate",
         date: "From - 11/2021 -> To - 04/2022",
-        para: "I am familliar with AWS Services, Enjoyed to work with the AWS Sevices. I love to work with the AWS Cloud Services. ",
-        logo: seo,
+        para: "Awesome experince working as a Analytics Associate at World top organization like Accenture. I was responsible for the Website Analytics and implement tags in the website. ",
+        logo: accenture,
       },
       {
-        title: "Software Developer ",
+        title: "UI/ UX Developer",
         date: "From - 09/2020 -> To - 09/2021",
-        para: "I am currently learning and practicing DevOps Tools like Docker, Kubernets, Jenkins, Ansible and Terraform.",
-        logo: app,
+        para: "It's Awesome Experince to work with USIB-the Team. I have worked here as a UI/UX Developer. I used to work on UI Designing, and UI Development using React.",
+        logo: usib,
       },
     ],
   },

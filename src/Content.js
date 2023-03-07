@@ -8,6 +8,7 @@ import nodejs from "./assets/images/Skills/node.png";
 import python from "./assets/images/Skills/python.png";
 import wordpress from "./assets/images/Skills/wordpress.png";
 import js from "./assets/images/Skills/js.png";
+import docker from "./assets/images/Skills/docker.png";
 
 import app from "./assets/images/Services/app.png";
 import web from "./assets/images/Services/web.png";
@@ -98,6 +99,11 @@ export const content = {
         name: "AWS Cloud",
         para: "I have good Command in AWS Services, Sevices like IAM, Ec-2, AWS Lambda, AWS VPS etc.",
         logo: aws,
+      },
+      {
+        name: "Docker",
+        para: "I have started learning and implementing docker for Containerized Applications. ",
+        logo: docker,
       },
       {
         name: "NodeJS",

@@ -132,7 +132,7 @@ export const content = {
       {
         title: "Software Developer",
         date: "From - 06/2022 -> To - Present",
-        para: "I have been working here since June 2022, as a Software Engineer. I have handelling the team of Developers and also I'm responsible for DevOps Practices. ",
+        para: "I am working here as a Software Developer since June 2022. In my current role, I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead and also pursuing my dream job devops. I'm responsible to Code Management, CI/CD, and many mores.",
         logo: heatrec,
       },
       {

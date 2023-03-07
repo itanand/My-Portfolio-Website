@@ -9,6 +9,8 @@ import python from "./assets/images/Skills/python.png";
 import wordpress from "./assets/images/Skills/wordpress.png";
 import js from "./assets/images/Skills/js.png";
 import docker from "./assets/images/Skills/docker.png";
+import linux from "./assets/images/Skills/linux.png";
+import github from "./assets/images/Skills/github.png";
 
 import app from "./assets/images/Services/app.png";
 import web from "./assets/images/Services/web.png";
@@ -104,6 +106,16 @@ export const content = {
         name: "Docker",
         para: "I have started learning and implementing docker for Containerized Applications. ",
         logo: docker,
+      },
+      {
+        name: "Linux",
+        para: "I have started learning and implementing docker for Containerized Applications. ",
+        logo: linux,
+      },
+      {
+        name: "Github",
+        para: "I have started learning and implementing docker for Containerized Applications. ",
+        logo: github,
       },
       {
         name: "NodeJS",

@@ -122,7 +122,6 @@ export const content = {
         para: "I am Beginner in the NodeJS Development.",
         logo: nodejs,
       },
-
       {
         name: "MongoDB",
         para: "I am using MongoDB Database from since 1.5 years. It's Amazing.",

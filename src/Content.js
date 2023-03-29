@@ -28,7 +28,7 @@ import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import accenture from "./assets/images/Experience/webshilla.png";
 import heatrec from "./assets/images/Experience/heatrec.png";
-import webshilla from "./assets/images/Experience/webshilla.png";
+import webshilla from "./assets/images/Experience/web.png";
 
 
 import Hireme_person from "./assets/images/Hireme/person.png";

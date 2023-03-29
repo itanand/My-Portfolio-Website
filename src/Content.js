@@ -28,7 +28,7 @@ import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import accenture from "./assets/images/Experience/webshilla.png";
 import heatrec from "./assets/images/Experience/heatrec.png";
-import usib from "./assets/images/Experience/webshilla.png";
+import webshilla from "./assets/images/Experience/webshilla.png";
 
 
 import Hireme_person from "./assets/images/Hireme/person.png";
@@ -67,19 +67,19 @@ export const content = {
     },
   ],
   hero: {
-    title: "Sofware Developer",
+    title: "Website Developer | Freelancer",
     firstName: "Anand",
     LastName: ".",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "2.0",
-        text: "Years of Experinse in Web Development and DevOps",
+        count: "4.0+",
+        text: "Years of Experinse in Website Development",
       },
       {
-        count: "10+",
-        text: "Projects Worked in my career",
+        count: "40+",
+        text: "Projects Completed in my career",
       },
     ],
   },
@@ -147,22 +147,22 @@ export const content = {
     subtitle: "Companies I Worked For :)",
     service_content: [
       {
-        title: "Software Developer",
+        title: "Software Developer(Web + APP)",
         date: "From - 06/2022 -> To - Present",
         para: "I am working here as a Software Developer since June 2022. In my current role, I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead and also pursuing my dream job devops. I'm responsible to Code Management, CI/CD, and many mores.",
         logo: heatrec,
       },
       {
-        title: "Analytics Associate",
+        title: "Analytics Engineer",
         date: "From - 11/2021 -> To - 04/2022",
         para: "Awesome experince working as a Analytics Associate at World top organization like Accenture. I was responsible for the Website Analytics and implement tags in the website. ",
         logo: accenture,
       },
       {
-        title: "UI/ UX Developer",
-        date: "From - 09/2020 -> To - 09/2021",
+        title: "Website Developer",
+        date: "From - 03/2020 -> To - 09/2021",
         para: "It's Awesome Experince to work with USIB-the Team. I have worked here as a UI/UX Developer. I used to work on UI Designing, and UI Development using React.",
-        logo: usib,
+        logo: webshilla,
       },
     ],
   },
@@ -171,13 +171,13 @@ export const content = {
     subtitle: "I Knows",
     service_content: [
       {
-        title: "Web Development(MERN)",
+        title: "Website Development",
         para: "I am a UI/UX Developer, Intereseted in creating some awesome projects. I have done some awesome projects in Web & App Development. ",
         logo: web,
       },
       {
-        title: "AWS Cloud",
-        para: "I am familliar with AWS Services, Enjoyed to work with the AWS Sevices. I love to work with the AWS Cloud Services. ",
+        title: "Digital Marketing",
+        para: "I am familliar SEO, SMM  Services, I will make your online presense with good ranking on Google. ",
         logo: seo,
       },
       {
@@ -193,27 +193,32 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Deployed a Microservices Application",
+        title: "Webshilla - IT Solutoions Website",
         image: project1,
-        link:  "https://tacticenterprises.com",
+        link:  "https://webshilla.com",
       },
       {
-        title: "Learning Management System",
-        image: project2,
-        link:  "https://theskylark.in",
-      },
-      {
-        title: "Tour & Travel Service",
+        title: "GhoomYatri - Tour & Travel Service",
         image: project3,
         link:  "https://ghoomyatri.com",
       },
       {
-        title: "3D Portfolio",
+        title: "tacticEnterprises - Interior Design Website",
+        image: project1,
+        link:  "https://tacticenterprises.com",
+      },
+      {
+        title: "SkyLark - Learning Management System",
+        image: project2,
+        link:  "https://theskylark.in",
+      },
+      {
+        title: "Acme Education - Education Hub",
         image: project3,
         link:  "https://acmeeducation.org",
       },
       {
-        title: "IT Service Website",
+        title: "HeaTRec Solutions - IT Service Website",
         image: project3,
         link:  "https://heatrecsolutions.com",
       },

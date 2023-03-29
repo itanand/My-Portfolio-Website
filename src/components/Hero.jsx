@@ -21,7 +21,7 @@ const Hero = () => {
         {/* first col */}
         <div className="pb-16 px-6 pt-5" data-aos="fade-down">
 
-          <h3>{hero.title}</h3>
+          <h4>{hero.title}</h4>
           <br />
           <div className="flex justify-end">
             <button className="btn">{hero.btnText}</button>

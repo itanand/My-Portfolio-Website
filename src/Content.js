@@ -67,7 +67,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "Website Developer | Freelancer",
+    title: "DevOps Engineer | Freelancer",
     firstName: "Anand",
     LastName: ".",
     btnText: "Hire Me",
@@ -75,11 +75,11 @@ export const content = {
     hero_content: [
       {
         count: "4.0+",
-        text: "Years of Experinse in Website Development",
+        text: "Years of Experinse in Software Development Development",
       },
       {
         count: "40+",
-        text: "Projects Completed in my career",
+        text: "Web Development Projects Completed in my career",
       },
     ],
   },
@@ -147,9 +147,9 @@ export const content = {
     subtitle: "Companies I Worked For :)",
     service_content: [
       {
-        title: "Software Developer(Web + APP)",
+        title: "DevOps Engineer",
         date: "From - 06/2022 -> To - Present",
-        para: "I am working here as a Software Developer since May 2022. In my current role,I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead.",
+        para: "I am working here as a DevOps Engineer since May 2022. In my current role,I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead.",
         logo: heatrec,
       },
       {

@@ -37,7 +37,7 @@ import Hireme_person2 from "./assets/images/Hireme/person2.png";
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
-import { BsGithub, BsInstagram, BsLinkedin } from "react-icons/bs";
+import { BsGithub, BsInstagram, BsLinkedin, BsNewspaper, BsTwitter } from "react-icons/bs";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
@@ -67,19 +67,19 @@ export const content = {
     },
   ],
   hero: {
-    title: "DevOps Engineer | Freelancer",
+    title: "DevOps Engineer | Full Stack Dev",
     firstName: "Anand",
     LastName: ".",
-    btnText: "Hire Me",
+    btnText: "Contact Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "4.0+",
-        text: "Years of Experinse in Software Development Development",
+        count: "3.0+",
+        text: "Years of Experinse in Software Development",
       },
       {
         count: "40+",
-        text: "Web Development Projects Completed in my career",
+        text: "Development Projects Completed in my career",
       },
     ],
   },
@@ -171,18 +171,18 @@ export const content = {
     subtitle: "I Knows",
     service_content: [
       {
-        title: "Website Development",
-        para: "I am a UI/UX Developer, Intereseted in creating some awesome projects. I have done some awesome projects in Web & App Development. ",
+        title: "Full Stack Development",
+        para: "I am Full Stack Developer Developer, Intereseted in creating some awesome projects. I have done some awesome projects in Web & App Development. ",
         logo: web,
       },
       {
-        title: "Digital Marketing",
-        para: "I am familliar SEO, SMM  Services, I will make your online presense with good ranking on Google. ",
+        title: "Open Source Contributions",
+        para: "I am a Open Source Contributor. Always looking for new opportunity to contribute. ",
         logo: seo,
       },
       {
-        title: "DevOps Tools",
-        para: "I am currently learning and practicing DevOps Tools like Docker, Kubernets, Jenkins, Ansible and Terraform.",
+        title: "Cloud & DevOps Services",
+        para: "I am currently learning and practicing Cloud & DevOps Tools like AWS, Azure, Docker, Kubernets, Jenkins, Ansible and Terraform.",
         logo: app,
       },
     ],
@@ -193,7 +193,7 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Webshilla - IT Solutoions Website",
+        title: "Freely - An Open Source Platform for Freelancers and Clients ",
         image: project1,
         link:  "https://webshilla.com",
       },
@@ -225,14 +225,14 @@ export const content = {
     ],
   },
   Testimonials: {
-    title: "Testimonials",
-    subtitle: "MY CLIENT REVIEWS",
+    title: "Blog",
+    subtitle: "MY Latest Blogs",
     testimonials_content: [
       {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
         img: t,
-        name: "Tactic Enterprises (Rahul Patel Singh)",
+        name: "Hash Node ",
       },
       {
         review:
@@ -261,12 +261,12 @@ export const content = {
     ],
   },
   Hireme: {
-    title: "Hire Me",
+    title: "Contact Me",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
     para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-    btnText: "Hire Me",
+    btnText: "Contact Here",
   },
   Contact: {
     title: "Contact Me",
@@ -284,8 +284,8 @@ export const content = {
       },
       {
         text: "Anand Mohan(data.integer)",
-        icon: BsInstagram,
-        link: "https://www.instagram.com/data.integer",
+        icon: BsTwitter,
+        link: "https://twitter.com/AnandMo00714761",
       },
       {
         text: "Anand Mohan",
@@ -296,6 +296,11 @@ export const content = {
         text: "Anand Mohan",
         icon: BsGithub,
         link: "https://www.github.com/itanand",
+      },
+      {
+        text: "ITanand's Blog",
+        icon: BsNewspaper,
+        link: "https://itanand.hashnode.dev/",
       },
     ],
   },

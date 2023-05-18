@@ -226,11 +226,7 @@ export const content = {
         icon: GrMail,
         link: "mailto:hey.itanand@gmail.com",
       },
-      {
-        text: "+91 7004238112",
-        icon: MdCall,
-        link: "https://wa.me/7004238112",
-      },
+  
       {
         text: "Anand Mohan(data.integer)",
         icon: BsInstagram,

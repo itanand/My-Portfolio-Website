@@ -29,6 +29,7 @@ import avatar4 from "./assets/images/Testimonials/avatar4.png";
 import accenture from "./assets/images/Experience/webshilla.png";
 import heatrec from "./assets/images/Experience/heatrec.png";
 import webshilla from "./assets/images/Experience/web.png";
+import webshilla from "";
 
 
 import Hireme_person from "./assets/images/Hireme/person.png";
@@ -67,7 +68,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "DevOps Engineer | Full Stack Dev",
+    title: "DevOps Engineer | Full Stack Frappe Developer",
     firstName: "Anand",
     LastName: ".",
     btnText: "Contact Me",
@@ -78,7 +79,7 @@ export const content = {
         text: "Years of Experinse in Software Development",
       },
       {
-        count: "40+",
+        count: "20+",
         text: "Development Projects Completed in my career",
       },
     ],
@@ -129,8 +130,8 @@ export const content = {
       },
 
       {
-        name: "Wordpress Development",
-        para: "I have 3+ years of experiance in Wordpress Website Development. Delivered more than 10 Websites.",
+        name: "Frappe ",
+        para: "I have 1.5+ years of experiance in Frappe / ERPNext Development."
         logo: wordpress,
       },
       {
@@ -147,8 +148,14 @@ export const content = {
     subtitle: "Companies I Worked For :)",
     service_content: [
       {
-        title: "DevOps Engineer",
-        date: "From - 06/2022 -> To - Present",
+        title: "Team Lead | DevOps Engineer",
+        date: "From - 05/2023 -> To - Present",
+        para: "I am working here as a DevOps Engineer since May 2022. In my current role,I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead.",
+        logo: heatrec,
+      },
+       {
+        title: "T DevOps Engineer",
+        date: "From - 05/2022 -> To - 05",
         para: "I am working here as a DevOps Engineer since May 2022. In my current role,I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead.",
         logo: heatrec,
       },
@@ -157,6 +164,12 @@ export const content = {
         date: "From - 11/2021 -> To - 04/2022",
         para: "Awesome experince working as a Analytics Associate at World top organization like Accenture. I was responsible for the Website Analytics and implement tags in the website. ",
         logo: accenture,
+      },
+      {
+        title: "Website Developer",
+        date: "From - 03/2020 -> To - 09/2021",
+        para: "It's Awesome Experince to work with USIB-the Team. I have worked here as a UI/UX Developer. I used to work on UI Designing, and UI Development using React.",
+        logo: webshilla,
       },
       {
         title: "Website Developer",
@@ -277,15 +290,11 @@ export const content = {
         icon: GrMail,
         link: "mailto:hey.itanand@gmail.com",
       },
-      {
-        text: "+91 7004238112",
-        icon: MdCall,
-        link: "https://wa.me/7004238112",
-      },
+
       {
         text: "Anand Mohan(data.integer)",
         icon: BsTwitter,
-        link: "https://twitter.com/AnandMo00714761",
+        link: "https://twitter.com/itanand_",
       },
       {
         text: "Anand Mohan",

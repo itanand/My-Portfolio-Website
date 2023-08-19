@@ -131,7 +131,7 @@ export const content = {
 
       {
         name: "Frappe ",
-        para: "I have 1.5+ years of experiance in Frappe / ERPNext Development."
+        para: "I have 1.5+ years of experiance in Frappe / ERPNext Development.",
         logo: wordpress,
       },
       {

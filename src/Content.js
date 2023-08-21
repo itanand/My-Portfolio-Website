@@ -1,6 +1,7 @@
 
 import Hero_person from "./assets/images/Hero/person.png";
 
+
 import mongodb from "./assets/images/Skills/mongodb.png";
 import aws from "./assets/images/Skills/aws.png";
 import reactjs from "./assets/images/Skills/react.png";
@@ -68,7 +69,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "DevOps Engineer | Full Stack Frappe Developer",
+    title: "DevOps Engineer | Full Stack & Frappe Developer",
     firstName: "Anand",
     LastName: ".",
     btnText: "Contact Me",
@@ -92,6 +93,16 @@ export const content = {
         name: "JavaScript",
         para: "JavaScript (js) is a light-weight object-oriented programming language.",
         logo: js,
+      },
+       {
+        name: "Python",
+        para: "Python is a high-level, general-purpose programming language.",
+        logo: python,
+      },
+      {
+        name: "Frappe ",
+        para: "I have 1.5+ years of experiance in Frappe / ERPNext Development.",
+        logo: wordpress,
       },
       {
         name: "React JS",
@@ -128,18 +139,7 @@ export const content = {
         para: "I am using MongoDB Database from since 1.5 years. It's Amazing.",
         logo: mongodb,
       },
-
-      {
-        name: "Frappe ",
-        para: "I have 1.5+ years of experiance in Frappe / ERPNext Development.",
-        logo: wordpress,
-      },
-      {
-        name: "Python",
-        para: "Python is a high-level, general-purpose programming language.",
-        logo: python,
-      },
-
+    
     ],
     icon: MdArrowForward,
   },
@@ -166,13 +166,13 @@ export const content = {
         logo: accenture,
       },
       {
-        title: "Website Developer",
+        title: " Founder & CEO",
         date: "From - 03/2020 -> To - 09/2021",
-        para: "It's Awesome Experince to work with USIB-the Team. I have worked here as a UI/UX Developer. I used to work on UI Designing, and UI Development using React.",
+        para: "I have started webshilla in 2019 with the aim to provide Enterprise level Software Solutions to MSMEs, We have served many clients worldwide in the field of Software Development, Digital Marketing.",
         logo: webshilla,
       },
       {
-        title: "Website Developer",
+        title: "Full Stack Developer",
         date: "From - 03/2020 -> To - 09/2021",
         para: "It's Awesome Experince to work with USIB-the Team. I have worked here as a UI/UX Developer. I used to work on UI Designing, and UI Development using React.",
         logo: webshilla,
@@ -189,8 +189,8 @@ export const content = {
         logo: web,
       },
       {
-        title: "Open Source Contributions",
-        para: "I am a Open Source Contributor. Always looking for new opportunity to contribute. ",
+        title: "Frappe / ERPNext Developement",
+        para: "I have more than 1.5 yeras of experience in frappe and ERPENxt Development. I can help you with ERP Solutions, and also consultant you to setup your ERP at very low cost. ",
         logo: seo,
       },
       {
@@ -211,24 +211,24 @@ export const content = {
         link:  "https://webshilla.com",
       },
       {
-        title: "GhoomYatri - Tour & Travel Service",
+        title: "Thehindustanvoice - India's best business news channel",
         image: project3,
-        link:  "https://ghoomyatri.com",
+        link:  "https://thehindustanvoice.in",
       },
       {
-        title: "tacticEnterprises - Interior Design Website",
+        title: "Collegepur - An Open Source EdTech Platform for Students",
         image: project1,
-        link:  "https://tacticenterprises.com",
+        link:  "https://collegepur.in",
       },
       {
-        title: "SkyLark - Learning Management System",
+        title: "Thinkbox - HRMS, IT and Finance Tool",
         image: project2,
-        link:  "https://theskylark.in",
+        link:  "https://thinkbox.webshilla.com",
       },
       {
-        title: "Acme Education - Education Hub",
+        title: "Thinkbox chat - A Slack and Discord clone",
         image: project3,
-        link:  "https://acmeeducation.org",
+        link:  "https://thinkbox.webshilla.com",
       },
       {
         title: "HeaTRec Solutions - IT Service Website",

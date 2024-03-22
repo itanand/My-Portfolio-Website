@@ -29,6 +29,7 @@ import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import accenture from "./assets/images/Experience/webshilla.png";
 import heatrec from "./assets/images/Experience/heatrec.png";
+import digital from "./assets/images/Experience/";
 import webshilla from "./assets/images/Experience/web.png";
 
 
@@ -148,13 +149,13 @@ export const content = {
     subtitle: "Companies I Worked For :)",
     service_content: [
       {
-        title: "Team Lead | DevOps Engineer",
-        date: "From - 05/2023 -> To - Present",
-        para: "I am working here as a DevOps Engineer since May 2022. In my current role,I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead.",
-        logo: heatrec,
+        title: "DevOps Engineer",
+        date: "From - 08/2023 -> To - Present",
+        para: "I am working here as a DevOps Engineer since Aug 2023. In my current role, I used to work with AWS, Docker, Kubernetes, Digital Cloud etc. Technologies: Frappe, ERPNExt, Python, Docker, AWS, Kubernetes, Digital CLoud, GCP, Digital Ocean",
+        logo: digital,
       },
        {
-        title: "T DevOps Engineer",
+        title: "DevOps Engineer",
         date: "From - 05/2022 -> To - 05",
         para: "I am working here as a DevOps Engineer since May 2022. In my current role,I used to handle the team of dedvelopers, Code Revies, and Deployment part. I am the frontend development team lead.",
         logo: heatrec,
@@ -278,7 +279,7 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "I am Anand, A DevOps Engineer and Solution Architect Enthusiast. Please let me know for any kind of freelance work.",
     btnText: "Contact Here",
   },
   Contact: {

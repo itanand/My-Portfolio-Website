@@ -29,7 +29,7 @@ import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import accenture from "./assets/images/Experience/webshilla.png";
 import heatrec from "./assets/images/Experience/heatrec.png";
-import digital from "./assets/images/Experience/";
+import digital from "./assets/images/Experience/8848digital_logo.jpeg";
 import webshilla from "./assets/images/Experience/web.png";
 
 

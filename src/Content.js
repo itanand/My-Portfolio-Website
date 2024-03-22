@@ -172,12 +172,6 @@ export const content = {
         para: "I have started webshilla in 2019 with the aim to provide Enterprise level Software Solutions to MSMEs, We have served many clients worldwide in the field of Software Development, Digital Marketing.",
         logo: webshilla,
       },
-      {
-        title: "Full Stack Developer",
-        date: "From - 03/2020 -> To - 09/2021",
-        para: "It's Awesome Experince to work with USIB-the Team. I have worked here as a UI/UX Developer. I used to work on UI Designing, and UI Development using React.",
-        logo: webshilla,
-      },
     ],
   },
   services: {
@@ -244,21 +238,21 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“Created an Online Blog Platform and, given 3000+ customer reach in 6 months.”",
         img: t,
-        name: "Hash Node ",
+        name: "D'Souzza Franandis",
       },
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“Created a LMS Platfom, using Frappe and ERPNext and Registered 2000+ Students in just 1 year.”",
         img: avatar4,
         name: "Acme Education (Alok Singh Rahi)",
       },
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“Hosted own platform to host Frappe build sites. technologies i used : frappe, Aws, Docker, Ansible and Digital ocean”",
         img: avatar2,
-        name: "Eccom Store( Anand Mohan )",
+        name: "Digital Cloud",
       },
       {
         review:
